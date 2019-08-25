@@ -1,2 +1,10 @@
-# script-tools
-- aws_lambda_publish.sh: simple bash (for macOS) script to upload your function to AWS lambda.
+# Trung's collection of various script tools
+
+## macOS script tools
+- Set default apps for extensions
+
+## AWS script tools
+- Lambda util
+
+## Others
+- Tesla Cam+Music USB drive maker tool https://github.com/mtrung/tesla-usb-drive

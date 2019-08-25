@@ -1,0 +1,14 @@
+com.microsoft.VSCode:sh
+com.microsoft.VSCode:mk
+com.microsoft.VSCode:md
+com.microsoft.VSCode:text
+com.microsoft.VSCode:txt
+com.microsoft.VSCode:gradle
+com.microsoft.VSCode:properties
+com.microsoft.VSCode:json
+com.microsoft.VSCode:xml
+com.microsoft.VSCode:yml
+com.microsoft.VSCode:yaml
+com.microsoft.VSCode:mod
+com.microsoft.VSCode:css
+com.microsoft.VSCode:go

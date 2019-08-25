@@ -1,6 +1,9 @@
 #!/bin/bash
+# Author: Trung Vo
+
 # Assume your code is in lambda folder
 # $1 (optional): zip filename you want to archive. Use index.zip if not provided.
+# requires AWS CLI
 
 # must change to yours
 function_name=your-lambda-function-name
