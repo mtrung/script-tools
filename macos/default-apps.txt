@@ -12,3 +12,5 @@ com.microsoft.VSCode:yaml
 com.microsoft.VSCode:mod
 com.microsoft.VSCode:css
 com.microsoft.VSCode:go
+com.microsoft.VSCode:dart
+com.microsoft.VSCode:lock
